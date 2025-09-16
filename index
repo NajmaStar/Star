@@ -1,4 +1,6 @@
 
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -58,3 +60,4 @@
 3. JS script for dark/light toggle included at the bottom.
 
 After using this template, your page **should immediately display the correct colors**.
+
